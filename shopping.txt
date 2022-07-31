@@ -4,8 +4,8 @@ apples
 bananas
 yogurt
 milk
-bread
-cereal
+wheat bread
+2 cereal
 12 eggs
 bacon
 orange juice
@@ -18,3 +18,6 @@ ice cream
 sugar
 flour
 butter
+coffee
+tomatoes
+pears
