@@ -1,12 +1,12 @@
 Shopping List
 
-apples
+red apples
 6 bananas
-yogurt
+vanilla yogurt
 2% milk
 wheat bread
 2 cereal
-12 eggs
+15 eggs
 bacon
 orange juice
 grapes
@@ -14,7 +14,7 @@ lemons
 lettuce
 rice
 soup
-ice cream
+chocolate ice cream
 sugar
 flour
 butter
